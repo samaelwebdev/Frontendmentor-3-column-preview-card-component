@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/samaelwebdev/Frontendmentor-3-column-preview-card-component](https://github.com/samaelwebdev/Frontendmentor-3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[Add live site URL here](https://samaelwebdev.github.io/Frontendmentor-3-column-preview-card-component/)]([https://your-live-site-url.com](https://samaelwebdev.github.io/Frontendmentor-3-column-preview-card-component/))
 
 ## My process
 
