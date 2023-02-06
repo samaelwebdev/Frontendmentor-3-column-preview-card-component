@@ -1,0 +1,127 @@
+html {
+  box-sizing: border-box;
+
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body{
+  font-size: 15px;
+
+}
+
+.cardwrapper{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+ 
+
+
+}
+
+/* card1 */
+
+.card1{
+  width: 300px;
+  height: 450px;
+  background-color: hsl(31, 77%, 52%);
+  color: hsla(0, 0%, 100%, 0.75);
+
+  padding: 50px;
+
+}
+
+.cardtype1{
+  color: hsl(0, 0%, 95%);
+      font-family: 'Lexend Deca', sans-serif;font-family: 'Big Shoulders Display', cursive;
+}
+
+.paragraph1{
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.button1{
+  all: unset;
+  width: 150px;
+  height: 40px;
+  color:hsl(31, 77%, 52%);
+  background-color: hsl(0, 0%, 95%);
+  font-family: 'Lexend Deca', sans-serif;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 75px;
+  cursor: pointer;
+}
+
+/* card2 */
+
+.card2{
+  width: 300px;
+  height: 450px;
+  background-color: hsl(184, 100%, 22%);
+  color: hsla(0, 0%, 100%, 0.75);
+  border: solid 1px black;
+  padding: 50px;
+
+}
+
+.cardtype1{
+  color: hsl(0, 0%, 95%);
+      font-family: 'Lexend Deca', sans-serif;font-family: 'Big Shoulders Display', cursive;
+}
+
+.paragraph2{
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.button2{
+  all: unset;
+  width: 150px;
+  height: 40px;
+  color:hsl(184, 100%, 22%);
+  background-color: hsl(0, 0%, 95%);
+  font-family: 'Lexend Deca', sans-serif;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 75px;
+  cursor: pointer;
+}
+
+/* card3 */
+
+
+.card3{
+  width: 300px;
+  height: 450px;
+  background-color:hsl(179, 100%, 13%);
+  color: hsla(0, 0%, 100%, 0.75);
+  padding: 50px;
+
+}
+
+.cardtype3{
+  color: hsl(0, 0%, 95%);
+      font-family: 'Lexend Deca', sans-serif;font-family: 'Big Shoulders Display', cursive;
+}
+
+.paragraph3{
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.button3{
+  all: unset;
+  width: 150px;
+  height: 40px;
+  color:hsl(179, 100%, 13%);
+  background-color: hsl(0, 0%, 95%);
+  font-family: 'Lexend Deca', sans-serif;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 75px;
+  cursor: pointer;
+}
+
+/* attribution */
